@@ -1,13 +1,3 @@
-# Asynchronous streams for Rust
-
-{{readme}}
-
-## License
-
-This project is licensed under the [MIT license](LICENSE).
-
-### Contribution
-
-Unless you explicitly state otherwise, any contribution intentionally submitted
-for inclusion in `async-stream` by you, shall be licensed as MIT, without any
-additional terms or conditions.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffd534f536d1ee9a6590fb71be3468972bbc21db05fc7a1e51938fc347e4c64b
+size 325

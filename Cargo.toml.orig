@@ -1,30 +1,3 @@
-[package]
-name = "async-stream"
-# When releasing to crates.io:
-# - Update version number
-#   - lib.rs: html_root_url.
-#   - README.md
-# - Update CHANGELOG.md
-# - Update doc URL.
-#   - Cargo.toml
-#   - README.md
-# - Create git tag
-version = "0.3.0"
-edition = "2018"
-license = "MIT"
-authors = ["Carl Lerche <me@carllerche.com>"]
-description = "Asynchronous streams using async & await notation"
-documentation = "https://docs.rs/async-stream/0.3.0/async-stream"
-homepage = "https://github.com/tokio-rs/async-stream"
-repository = "https://github.com/tokio-rs/async-stream"
-readme = "README.md"
-
-[dependencies]
-async-stream-impl = { version = "0.3.0", path = "../async-stream-impl" }
-futures-core = "0.3"
-
-[dev-dependencies]
-futures-util = "0.3"
-tokio = { version = "0.2", features = ["full"] }
-tokio-test = "0.2"
-trybuild = "1"
+version https://git-lfs.github.com/spec/v1
+oid sha256:48774ccbb16b0398f581dbf00afacb0ef7d36cd41316716b8f38cfb004cf7c1a
+size 824
